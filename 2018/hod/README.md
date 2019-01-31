@@ -4,6 +4,8 @@
 #### Instructions:
 - Run a postgresql database v9.6
 - Store the following data in accordance to a snowflake schema arrangement (http://files.pushshift.io/reddit/comments/sample_data.json)
+  - Make sure to include a copy of the schema diagram
+  - Make sure to note the steps you've gone through in slicing the data. Explain your approach.
 
 - Once the data is now in the database, solve for the following:
   - Find the longest comment
